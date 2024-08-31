@@ -6,7 +6,11 @@ Welcome to Python Mastery, your go-to resource for learning and mastering Python
 2. [Installation and Setup](https://github.com/Keshavj022/Python/blob/main/Python%20Installation%20and%20Setup.md)
 3. [Python Basics](https://github.com/Keshavj022/Python/tree/main/Python%20Basics)
 4. [Control Structures](https://github.com/Keshavj022/Python/tree/main/Control%20Structures)
+<<<<<<< HEAD
 5. [Functions And Modules](https://github.com/Keshavj022/Python/tree/main/Functions%20And%20Modules)
+=======
+5. [Data Structures](https://github.com/Keshavj022/Python/tree/main/Data%20Structures)
+>>>>>>> 31d71b6 (Added Data Structure Files)
 6. [Questions for Practice](https://github.com/Keshavj022/Python/tree/main/Questions)
 
 ## Introduction to Python
