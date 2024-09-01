@@ -8,7 +8,8 @@ Welcome to Python Mastery, your go-to resource for learning and mastering Python
 4. [Control Structures](https://github.com/Keshavj022/Python/tree/main/Control%20Structures)
 5. [Functions And Modules](https://github.com/Keshavj022/Python/tree/main/Functions%20And%20Modules)
 6. [Data Structures](https://github.com/Keshavj022/Python/tree/main/Data%20Structures)
-7. [Questions for Practice](https://github.com/Keshavj022/Python/tree/main/Questions)
+7. [Exception Handling](https://github.com/Keshavj022/Python/tree/main/Exception%20Handling)
+8. [Questions for Practice](https://github.com/Keshavj022/Python/tree/main/Questions)
 
 ## Introduction to Python
 
