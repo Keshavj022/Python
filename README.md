@@ -10,7 +10,8 @@ Welcome to Python Mastery, your go-to resource for learning and mastering Python
 6. [Data Structures](https://github.com/Keshavj022/Python/tree/main/Data%20Structures)
 7. [Exception Handling](https://github.com/Keshavj022/Python/tree/main/Exception%20Handling)
 8. [File Handling](https://github.com/Keshavj022/Python/tree/main/File%20Handling)
-9. [Questions for Practice](https://github.com/Keshavj022/Python/tree/main/Questions)
+9. [OOP in Python](https://github.com/Keshavj022/Python/tree/main/OOP)
+10. [Questions for Practice](https://github.com/Keshavj022/Python/tree/main/Questions)
 
 ## Introduction to Python
 
