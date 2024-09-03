@@ -6,6 +6,11 @@ A class is a blueprint or prototype that defines the variables and methods commo
 ## What is an Object?
 An object is an instance of a class. It represents the real-world entity in your program.
 
+### Key Points:
+- A class defines the blueprint for objects.
+- An object is an instance of a class.
+- The __init__ method is the constructor used for initializing objects.
+
 ### Example:
 ```python
 class Dog:
@@ -21,3 +26,4 @@ dog2 = Dog("Molly", 3)
 
 print(f"{dog1.name} is {dog1.age} years old and belongs to the species {dog1.species}.")
 print(f"{dog2.name} is {dog2.age} years old and belongs to the species {dog2.species}.")
+```
