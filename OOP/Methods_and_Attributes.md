@@ -6,6 +6,10 @@ Attributes are variables that belong to an object or class. They represent the s
 ## What are Methods?
 Methods are functions that belong to a class and define behaviors of an object. They operate on the attributes of the class.
 
+### Key Points:
+- Attributes define the properties of an object.
+- Methods define the behavior of an object.
+
 ### Example:
 ```python
 class Dog:
@@ -24,3 +28,4 @@ dog = Dog("Buddy", 5)
 # Accessing attributes and methods
 print(dog.name)
 print(dog.bark())
+```
