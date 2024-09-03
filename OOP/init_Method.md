@@ -2,6 +2,9 @@
 
 ## What is `__init__`?
 The `__init__` method is a special method in Python classes. It is known as the constructor and is automatically called when an object is created. It is used to initialize the attributes of the object.
+### Key Points:
+- The __init__ method is used to initialize an object’s state.
+- It is automatically called when an object is instantiated.
 
 ### Example:
 ```python
